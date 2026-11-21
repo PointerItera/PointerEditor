@@ -39,9 +39,11 @@ PointerEditor 是一个基于 TurboWarp scratch-gui 的蓝白主题 Scratch 兼�
 
 0.3.0 Beta2 安装包、免安装版与网页版静态包：
 
-国内推荐（123 云盘，免登录、下载更快）：
+国内官方节点（下载更快）：
 
-- [PointerEditor 下载文件夹](https://1827634832.share.123pan.cn/123pan/kBNKjv-KRnX)（Windows 安装版 / 免安装版 / 网页版）
+- Windows 安装版：<https://vable.ctspace.xyz/downloads/PointerEditor-0.3.0-Beta2-setup.exe>
+- Windows 免安装版：<https://vable.ctspace.xyz/downloads/PointerEditor-0.3.0-Beta2-win64.zip>
+- 网页版静态包：<https://vable.ctspace.xyz/downloads/PointerEditor-0.3.0-Beta2-web.zip>
 
 GitHub Releases（海外 / 备用）：
 
